@@ -3,12 +3,12 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Cissa09/ReportService?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Cissa09/WebApiRLDCReportService?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Cissa09/ReportService">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Cissa09/WebApiRLDCReportService">
   	  	  
   <a href="https://github.com/tgmarinho/nlw1/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Cissa09/ReportService">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Cissa09/WebApiRLDCReportService">
   </a>  
 </p>
 
@@ -43,7 +43,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Visua Studio 2022][vs22]. 
 Além disto como o Visual Studio 2022 não trás o Micrososf RDLC Report como padrão como seu antecessor o Visual Studio 2019, você vai precisar instalar este via marketplace [Microsoft RDLC Report Designer 2022][rdlcdonwload]
 
-### 🎲 Fazendo o projeto funcionar.
+### 🎲 Fazendo o projeto funcionar
 
 Para a parte não colaborativa deste projeto crie um WindowsFormApplication, ele será responsável por criar seus reports .rdlc.
 
