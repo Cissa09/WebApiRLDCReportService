@@ -17,7 +17,8 @@
 
 Muitos softwares legados iniciados no inicio da década ficam refens de ferramentas para gerar relatórios que muitas vezes não acompanham o crescimento do negócio e tão pouco o Roadmap do produto. Desta forma este projeto fornece uma alternativa moderna de criar relatórios que podem evoluir para serviços ou simplesmente atender a demanda do seu negócio.
 
-Este projeto cria um relatório a partir de um DataSource vinculado a um banco de dados.
+Este projeto cria um relatório a partir de um DataSource vinculado a um banco de dados. 
+Este projeto já consta dentro de um Design pattern DDD respeitando na modelagem os atributos de negócio.
 
 ## 🛠 Tecnologias
 
@@ -72,6 +73,7 @@ Esta é a cara final da Solution:
 
 ![image](https://user-images.githubusercontent.com/26122083/162359789-59007792-34ed-4274-9121-8c1f0a1f2786.png)
 
+OBS: Para não depender de um dataset oriundo do projeto não colaborativo, basta criar um DataTable e preenchelo manualmente antes de executar o Print();
 
 ## 😯 Como contribuir para o projeto
 
